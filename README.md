@@ -18,7 +18,7 @@ ISBN: 978-960-93-8075-1
 
 Γ.ΠΟΛΥΖΩΗΣ-Π.ΜΠΟΥΜΠΟΥΛΗΣ
 # ΔΕΣ ΤΟ ΛΟΓΙΣΜΙΚΟ: https://github.com/GDPOL59/IEP/blob/main/02_GEOGEBRA%20%CE%9A%CE%99%CE%9D%CE%97%CE%9C%CE%91%CE%A4%CE%99%CE%9A%CE%97.ggb
-[link](https://drive.google.com/drive/folders/1_0aWCrRwRJm6jhkfKMIzOwS8mZEEoWA)
+[link](https://drive.google.com/drive/folders/1_0aWCrRwRJm6jhkfKMIzOwS8mZEEoWAD)
 
 
 
