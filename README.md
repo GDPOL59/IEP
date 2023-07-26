@@ -22,7 +22,7 @@ ISBN: 978-960-93-8075-1
 
 [link](https://drive.google.com/drive/folders/1DzNpn_3KU1sU7J1Oy-1WDCcRUrgP5WIC)
 g
-
+https://github.com/GDPOL59/IEP/blob/main/02_GEOGEBRA%20%CE%9A%CE%99%CE%9D%CE%97%CE%9C%CE%91%CE%A4%CE%99%CE%9A%CE%97.ggb
 
 2.
 ΤΙΤΛΟΣ «ΑΙΣΘΗΤΟΠΟΙΗΣΗ (VISUALIzATION) ΤΗΣ ΛΥΣΗΣ ΠΡΟΒΛΗΜΑΤΩΝ ΑΝΑΜΙΞΗΣ ΔΙΑΛΥΜΑΤΩΝ»
